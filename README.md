@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hi 😊, I'm Senuri Dissanayake</h1>
 <h3 align="center">I am passionate about bringing designs to life with clean code and beautiful web experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"
